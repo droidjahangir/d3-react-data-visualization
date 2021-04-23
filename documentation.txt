@@ -1,0 +1,44 @@
+data visualization book
+Visualization analysis and design written by tamara munzner
+
+Data visualization sample site
+https://graphics.reuters.com/
+https://www.nytimes.com/section/upshot
+https://pudding.cool/
+https://fivethirtyeight.com/
+https://flowingdata.com/
+https://www.reddit.com/r/dataisbeautiful/
+
+https://www.informationisbeautifulawards.com/
+https://qz.com/re/data-visualization/
+https://www.economist.com/graphic-detail/
+#dataviz in twitter
+https://blockbuilder.org/search
+https://observablehq.com/
+
+
+Two types of images
+1. Raster --> .jpeg, .gif, .png  (measure with px)
+2. Vector --> .svg (scalable vector graphics)
+
+unpkg --> all npm package in this module. link below
+https://unpkg.com/browse/react@17.0.2/
+After going to this link we need to go to umd(universal module definition) directory then click over react.production.min.js file then click button "view raw". 
+Then we need to copy this link and pest this in our js file. then we can access react global. This is a CDN (Content Delivery Network)
+
+vizhub 
+https://vizhub.com/1tang/5245c2a61583441c83adf62d4270a953?edit=files&file=index.js
+
+Module bundler --> rollup
+
+
+d3-shape
+https://github.com/d3/d3-shape
+
+d3-dsv
+https://github.com/d3/d3-dsv
+
+world data
+https://ourworldindata.org/
+
+
